@@ -7,6 +7,8 @@
 数学形式：
 <img src="https://latex.codecogs.com/svg.image?gcd(a,b)=gcd(&space;b,a\rm{mod}b)" title="gcd(a,b)=gcd( b,a\rm{mod}b)" />
 
+动图形式：https://pic2.zhimg.com/v2-670bf0f167f40666c5a2529a96dae571_b.webp
+
 伪代码形式：
 
 ```text
